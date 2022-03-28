@@ -13,7 +13,7 @@
       } ,
       "VNC_PASS": {
         "description": "VNC server password w/o spaces.",
-	      "value" : "Vubuntu",
+	      "value" : "726268",
         "required" : true
       },
       "VNC_RESOLUTION" : {
